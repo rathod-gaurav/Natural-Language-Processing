@@ -1,0 +1,918 @@
+Named Entity,POS label
+Pence,PERSON
+Merry Christmas,PERSON
+Michigan,GPE
+Michigan,GPE
+Michigan,GPE
+One,CARDINAL
+thousands,CARDINAL
+Christmas,DATE
+America,GPE
+Merry,PERSON
+Merry Christmas,PERSON
+first,ORDINAL
+First,ORDINAL
+the Republican Party,ORG
+Michigan,GPE
+the best year,DATE
+Japan,GPE
+10 years ago,DATE
+Michigan,GPE
+close to 10 years ago,DATE
+Michigan,GPE
+the Man Of The Year,ORG
+Mexico,GPE
+China,GPE
+China,GPE
+China,GPE
+a long time ago,DATE
+USMCA,ORG
+NAFTA,ORG
+Mexico,GPE
+Canada,GPE
+Canada,GPE
+297%,PERCENT
+Canada,GPE
+Mexico,GPE
+Nancy Pelosi,PERSON
+New York,GPE
+one,CARDINAL
+Democrats,NORP
+seven months,DATE
+the day,DATE
+Mexico,GPE
+Canada,GPE
+South Korea,GPE
+Japan,GPE
+40 billion dollar,MONEY
+Japan,GPE
+Japan,GPE
+20%,PERCENT
+a minute,TIME
+seven and a half percent,DATE
+two,CARDINAL
+billions of dollars,MONEY
+16 billion,MONEY
+the previous year,DATE
+16 billion dollars,MONEY
+12 billion,CARDINAL
+the previous year,DATE
+36,CARDINAL
+the White House,FAC
+this two years ago,DATE
+the first year,DATE
+12 billion,CARDINAL
+The second year,DATE
+16,DATE
+China,GPE
+billions and billions of dollars,MONEY
+less than three years,DATE
+two,CARDINAL
+35 years old,DATE
+60,CARDINAL
+two and a half trillion dollars,DATE
+USA,GPE
+Two and a half trillion,DATE
+Hollywood,GPE
+Stealth,ORG
+one,CARDINAL
+two,CARDINAL
+the Air Force,ORG
+many decades ago,DATE
+sixth,ORDINAL
+the United States Armed Forces,GPE
+The Space Force,ORG
+Democrats,NORP
+yesterday,DATE
+three years,DATE
+the Historically Black Colleges,ORG
+every year,DATE
+every year,DATE
+Black Colleges,ORG
+"266,000",CARDINAL
+last month,DATE
+the previous two months,DATE
+"300,000",CARDINAL
+"70,000",CARDINAL
+"80,000",CARDINAL
+90,DATE
+110,CARDINAL
+"266,000",CARDINAL
+about four months ago,DATE
+the last couple of weeks,DATE
+yesterday,DATE
+133 record days,DATE
+less than three years,DATE
+90%,PERCENT
+97%,PERCENT
+82%,PERCENT
+a year ago,DATE
+a long time ago,DATE
+72%,PERCENT
+401k,PRODUCT
+Ford,ORG
+1.5 billion dollars,MONEY
+Detroit,GPE
+3000,CARDINAL
+Michigan,GPE
+Japanese,NORP
+Michigan,GPE
+Michigan,GPE
+Michigan,GPE
+Michigan,GPE
+American,NORP
+Congress,ORG
+Clinton,PERSON
+Democrat,NORP
+Hillary,PERSON
+92%,PERCENT
+less than half,CARDINAL
+first,ORDINAL
+a couple of months,DATE
+"20,000",CARDINAL
+"5,500",CARDINAL
+Biden,PERSON
+93,CARDINAL
+USA Today,ORG
+USA Today,ORG
+Biden,PERSON
+200,CARDINAL
+almost 50 years,DATE
+Four more years,DATE
+Four more years,DATE
+Four more years,DATE
+Four more years,DATE
+Four more years,DATE
+Four more years,DATE
+25,CARDINAL
+"30,000",CARDINAL
+Pocahontas,PERSON
+Pocahontas,PERSON
+Central Park,LOC
+Manhattan,GPE
+Trump,PERSON
+Central Park,LOC
+13,CARDINAL
+the last couple of weeks,DATE
+Pennsylvania,GPE
+Florida,GPE
+thousands and thousands,CARDINAL
+NBA,ORG
+a long time ago,DATE
+thousands,CARDINAL
+two,CARDINAL
+Trump,PERSON
+Trump,PERSON
+two,CARDINAL
+three years,DATE
+tonight,TIME
+House,ORG
+Democrats,NORP
+tens of millions,MONEY
+Americans,NORP
+one,CARDINAL
+Michigan,GPE
+Grand Rapids,GPE
+Grand Rapids,GPE
+"32,000",CARDINAL
+one o'clock,TIME
+Election Day,DATE
+Hillary,PERSON
+Barack Obama,PERSON
+Michelle Obama,PERSON
+Bill Clinton,PERSON
+Michigan,GPE
+six o'clock,TIME
+500,CARDINAL
+one o'clock in the morning,TIME
+the next day,DATE
+Election Day,DATE
+"32,000",CARDINAL
+Michigan,GPE
+Michigan,GPE
+Bill Clinton,PERSON
+Bill Clinton,PERSON
+Crooked Hillary,PERSON
+Crooked Hillary,PERSON
+Hillary,PERSON
+Michigan,GPE
+Wisconsin,GPE
+Wisconsin,GPE
+Trump/Pence,ORG
+Wisconsin,GPE
+Wisconsin,GPE
+Michigan,GPE
+Crooked,PERSON
+Michigan,GPE
+Michigan,GPE
+four,CARDINAL
+one,CARDINAL
+two,CARDINAL
+Michigan,GPE
+Wisconsin,GPE
+Wisconsin,GPE
+Michigan,GPE
+Ronna McDaniel,PERSON
+Ronna,PERSON
+Ronna,PERSON
+Ronna,PERSON
+Ronna McDaniel,PERSON
+Michigan,GPE
+two weeks,DATE
+Ronna,WORK_OF_ART
+Grand Rapids,GPE
+Michigan,GPE
+tonight,TIME
+Michigan,GPE
+Michigan,GPE
+2016,DATE
+Michigan,GPE
+November 3rd,DATE
+November 3rd,DATE
+November,DATE
+one,CARDINAL
+Ã¢â‚¬Â¦,PERSON
+Ã¢â‚¬Â¦,PERSON
+"Buttigieg, Buttigieg?",WORK_OF_ART
+Ã¢â‚¬Â¦,PERSON
+Pete,PERSON
+Pete,PERSON
+Pete,PERSON
+Pete,PERSON
+Pete,PERSON
+Buttigieg,GPE
+Ã¢â‚¬Â¦,PERSON
+Pete,PERSON
+Ã¢â‚¬Â¦,PERSON
+Pocahontas,PERSON
+Buttigieg,PERSON
+Alfred E. Newman,PERSON
+Democrats,NORP
+2.3 million,CARDINAL
+Michigan,GPE
+2016,DATE
+Democrats,NORP
+Michigan,GPE
+Michigan,GPE
+Michigan,GPE
+Mexico,GPE
+Mexico,GPE
+32%,PERCENT
+Mexico,GPE
+Ã¢â‚¬Â,GPE
+¦ 32%,PERCENT
+Mexico,GPE
+today,DATE
+Democrats,NORP
+American,NORP
+the Democrat Party,ORG
+the last four weeks,DATE
+three months ago,DATE
+14,DATE
+15,CARDINAL
+18,CARDINAL
+18,CARDINAL
+a minute,TIME
+10,CARDINAL
+two,CARDINAL
+11,CARDINAL
+nine,CARDINAL
+today,DATE
+today,DATE
+Nancy Pelosi's,PERSON
+House,ORG
+Democrats,NORP
+Democrat,NORP
+Washington,GPE
+the Democrat Party,ORG
+Democrats,NORP
+Commicast,ORG
+CNN,ORG
+MSNBC,ORG
+CNN,ORG
+MSNBC,ORG
+Washington,GPE
+first,ORDINAL
+Obama,PERSON
+Obama,PERSON
+Obama,PERSON
+Obama,PERSON
+Crooked Hillary,PERSON
+Secret Service,ORG
+three years,DATE
+three,CARDINAL
+four,CARDINAL
+Hillary,PERSON
+Democrats,NORP
+FBI,ORG
+IG,ORG
+FBI,ORG
+FBI,ORG
+the FISA Court,ORG
+Democrats,NORP
+two years ago,DATE
+the FISA Court,ORG
+Comey,PERSON
+Lisa Page,PERSON
+Peter Strzok,PERSON
+Lisa,PERSON
+Ã¢â‚¬Â¦,PERSON
+Obama,PERSON
+100 million,CARDINAL
+zeros,CARDINAL
+100,CARDINAL
+100,CARDINAL
+100 million,CARDINAL
+Peter,PERSON
+100 million,CARDINAL
+three years,DATE
+Rush Limbaugh,PERSON
+Sean Hannity,PERSON
+Laura Ingram,PERSON
+Tucker,PERSON
+Ainsley,PERSON
+one,CARDINAL
+the first three years,DATE
+yesterday,DATE
+Pelosi,PERSON
+Schiff,ORG
+Congress,ORG
+two weeks ago,DATE
+Adam Schiff,PERSON
+eight quid,QUANTITY
+Eight,CARDINAL
+eight,CARDINAL
+first,ORDINAL
+second,ORDINAL
+Third,ORDINAL
+eight,CARDINAL
+Eight,CARDINAL
+Ã¢â‚¬Â¦,PERSON
+eight,CARDINAL
+seven,CARDINAL
+eight,CARDINAL
+the United States,GPE
+100%,PERCENT
+Ã¢â‚¬Â¦,PERSON
+America,GPE
+Russia,GPE
+Where's,WORK_OF_ART
+Mueller,PERSON
+$45 million,MONEY
+18,CARDINAL
+Trump,PERSON
+Democrats,NORP
+13,DATE
+18,CARDINAL
+Mueller,PERSON
+Muller,ORG
+Congress,ORG
+Boo,PERSON
+$45 million,MONEY
+billions,CARDINAL
+billions,CARDINAL
+billions of dollars,MONEY
+billions and billions of dollars,MONEY
+Schiff,ORG
+Russia,GPE
+year,DATE
+Russia,GPE
+Haleigh,ORG
+The Republican party,ORG
+Pelosi Ã¢â‚¬Â¦,PERSON
+two,CARDINAL
+Republicans,NORP
+Democrats,NORP
+one,CARDINAL
+two,CARDINAL
+Republicans,NORP
+Democrats,NORP
+three,CARDINAL
+Democrats,NORP
+Republicans,NORP
+a hundred years,DATE
+Republicans,NORP
+Republican Party,ORG
+Obamacare,ORG
+Pelosi,PERSON
+Constitution,LAW
+American,NORP
+America,GPE
+America,GPE
+America,GPE
+three days,DATE
+Merry Christmas,PERSON
+today,DATE
+Constitution,LAW
+first,ORDINAL
+Constitution,LAW
+Turley,PERSON
+Alan Dershowitz,PERSON
+first,ORDINAL
+Richard Nixon,PERSON
+the Republican Party,ORG
+House,ORG
+Senate,ORG
+last forever,DATE
+Republicans,NORP
+Democrat,NORP
+Republican,NORP
+Americans,NORP
+tens of millions,MONEY
+next year,DATE
+Pelosi,PERSON
+Carolyn Maloney,PERSON
+Manhattan,GPE
+first,ORDINAL
+the years,DATE
+New York,GPE
+Democrat,NORP
+Manhattan,GPE
+years,DATE
+years,DATE
+first,ORDINAL
+Carolyn Maloney,PERSON
+so many years,DATE
+Dingell,PERSON
+Dingell,PERSON
+Dingell,PERSON
+Michigan,GPE
+Dingell,PERSON
+Michigan,GPE
+Debbie Dingell,PERSON
+up like eight months ago,DATE
+D.,NORP
+Dingell Ã¢â‚¬Â,PERSON
+John,PERSON
+B+,PERSON
+zero,CARDINAL
+10,CARDINAL
+10,CARDINAL
+February,DATE
+the Constitution of the United States,LAW
+Trump,PERSON
+Muller,ORG
+one,CARDINAL
+one little quarter,DATE
+The United States,GPE
+the United States,GPE
+Ukraine,GPE
+Ukraine,GPE
+thousand,CARDINAL
+Republicans,NORP
+Us,GPE
+the United States,GPE
+the United States,GPE
+the United States,GPE
+Ã¢â‚¬Â¦,PERSON
+the United States,GPE
+Ukraine,GPE
+Democrats,NORP
+Democrats,NORP
+a couple of days ago,DATE
+Trump,PERSON
+House,ORG
+Democrats,NORP
+the Republican Party,ORG
+20,CARDINAL
+November 3rd,DATE
+Republicans,NORP
+2018,DATE
+two,CARDINAL
+Senate,ORG
+171,CARDINAL
+171,CARDINAL
+171,CARDINAL
+the end of the year,DATE
+182,CARDINAL
+Obama,PERSON
+142,CARDINAL
+142,CARDINAL
+Supreme Court,ORG
+two,CARDINAL
+Supreme Court,ORG
+Two,CARDINAL
+Supreme,ORG
+"Kavanaugh, Gorsuch",ORG
+Two,CARDINAL
+Kavanaugh,PERSON
+November,DATE
+Trump,PERSON
+10 months,DATE
+one,CARDINAL
+Supreme Court,ORG
+House,ORG
+Senate,ORG
+the White House,ORG
+the Wall Street Journal,ORG
+Washington Post,ORG
+Pinocchio,PERSON
+Wall Street Journal,ORG
+the other day,DATE
+Supreme Court,ORG
+Ã¢â‚¬ËœWell,ORG
+first,ORDINAL
+51 years,DATE
+Democrats,NORP
+40 and 50%,PERCENT
+Florida,GPE
+Ron DeSantis,PERSON
+50%,PERCENT
+Florida,GPE
+America,GPE
+Washington,GPE
+Democrats,NORP
+Schiff,ORG
+Pelosi,PERSON
+George Stephanopoulos,PERSON
+Nancy Pelosi,PERSON
+the Republican Party,ORG
+four more years,DATE
+one,CARDINAL
+Pennsylvania,GPE
+16 more years,DATE
+16,CARDINAL
+New York Times,ORG
+one,CARDINAL
+one,CARDINAL
+First,ORDINAL
+First,ORDINAL
+election season,DATE
+2016,DATE
+"Ã¢â‚¬Â¦ "" Oh really",PERSON
+first,ORDINAL
+one,CARDINAL
+first,ORDINAL
+four years ago,DATE
+20 years,DATE
+"24, 25 years ago",DATE
+24 years ago,DATE
+one,CARDINAL
+two,CARDINAL
+three,CARDINAL
+two,CARDINAL
+three,CARDINAL
+African American,NORP
+African American,NORP
+African American,NORP
+African-American,NORP
+Hispanic Americans,NORP
+Asians,NORP
+71 years,DATE
+71 years,DATE
+another couple of months,DATE
+only 71 years,DATE
+71 years,DATE
+Joe Biden Ã¢â‚¬Â,PERSON
+Biden,PERSON
+$1 billion,MONEY
+Ukraine,GPE
+Trump,PERSON
+$1 billion,MONEY
+Ukraine,GPE
+Joe,PERSON
+one,CARDINAL
+the other day,DATE
+Battle Creek,GPE
+First,ORDINAL
+100%,PERCENT
+tonight,TIME
+Republican,NORP
+Michigan House,ORG
+Lee Chatfield,PERSON
+Lee,PERSON
+Lee,PERSON
+Lee,PERSON
+Lee,PERSON
+Lee,PERSON
+Republican Party Chairwoman,ORG
+Ronna McDaniel,PERSON
+RNC,ORG
+Michigan,GPE
+Michigan,GPE
+Trump,PERSON
+Lee,PERSON
+Michigan,GPE
+GOP Chairwoman,ORG
+Laura Cox,PERSON
+Congress,ORG
+Lee,PERSON
+the Woman's Workers and Workers for Trump,ORG
+Terry Bowman,PERSON
+Terry,PERSON
+Democrats,NORP
+Washington,GPE
+Washington,GPE
+tonight,TIME
+four years or,DATE
+eight years,DATE
+one,CARDINAL
+more than eight years,DATE
+two and a half years,DATE
+"almost $3,000",MONEY
+"10,000",MONEY
+Bush,PERSON
+eight years,DATE
+450,MONEY
+450 bucks,MONEY
+Obama,PERSON
+975,MONEY
+Trump,PERSON
+"more than $10,000",MONEY
+less than three years,DATE
+two eight-years,DATE
+400,CARDINAL
+450,CARDINAL
+975,CARDINAL
+eight years,DATE
+450,CARDINAL
+less than three years,DATE
+"more than $10,000",MONEY
+one,CARDINAL
+American,NORP
+the United States,GPE
+one,CARDINAL
+Texas,GPE
+Beto,PERSON
+Beto,PERSON
+first,ORDINAL
+about two weeks,DATE
+Bible,WORK_OF_ART
+Texas,GPE
+Texas,GPE
+Abraham Lincoln,PERSON
+Texas,GPE
+China,GPE
+two years,DATE
+United States Steel,ORG
+billions of dollars,MONEY
+Democrat,NORP
+U.S.,GPE
+four,CARDINAL
+five,CARDINAL
+Battle Creek,GPE
+a couple of hundred miles,CARDINAL
+a couple of hundred miles,QUANTITY
+four,CARDINAL
+five,CARDINAL
+Dishwashers,ORG
+five minutes,TIME
+12,CARDINAL
+four,CARDINAL
+10,CARDINAL
+10,CARDINAL
+10,CARDINAL
+three,CARDINAL
+Trump,PERSON
+10,CARDINAL
+two weeks,DATE
+the last two decades,DATE
+one,CARDINAL
+five,CARDINAL
+so many years,DATE
+first,ORDINAL
+U.S.,GPE
+Trans Pacific Partnership,ORG
+TPP,ORG
+Korea,GPE
+Hillary Clinton,PERSON
+"250,000",CARDINAL
+South Korea,GPE
+"250,000",CARDINAL
+South Korea,GPE
+USMCA,ORG
+Michigan,GPE
+"41,000",CARDINAL
+Obama,PERSON
+"600,000",CARDINAL
+Foxconn,GPE
+Wisconsin,GPE
+Fiat-Chrysler,ORG
+$4.5 billion,MONEY
+Michigan,GPE
+first,ORDINAL
+Detroit,GPE
+General Motors,ORG
+$300 million,MONEY
+Orion Assembly Plant,ORG
+Michigan,GPE
+General Motors,ORG
+General Motors,ORG
+one,CARDINAL
+Japan,GPE
+$68 billion,MONEY
+Shinzo,PERSON
+Japan,GPE
+the United States,GPE
+Japanese,NORP
+years,DATE
+first,ORDINAL
+American,NORP
+first,ORDINAL
+Democrat,NORP
+Americans,NORP
+thousands and thousands,CARDINAL
+MS13,PERSON
+Guatemala,GPE
+Honduras,GPE
+El Salvador,GPE
+"50, 60 years",DATE
+500 million,CARDINAL
+5,MONEY
+June,DATE
+two,CARDINAL
+Sandusky,GPE
+Michigan,GPE
+two,CARDINAL
+Michigan,GPE
+five,CARDINAL
+North Carolina,GPE
+two,CARDINAL
+just a few months ago,DATE
+Two,CARDINAL
+California,GPE
+Earlier this year,DATE
+Kent County,GPE
+Michigan,GPE
+Kent County,GPE
+Michigan,GPE
+Michigan,GPE
+2020,DATE
+Republican,NORP
+Michigan,GPE
+one,CARDINAL
+two months,DATE
+75%,PERCENT
+eight,CARDINAL
+"10,000",CARDINAL
+Guatemala,GPE
+Honduras,GPE
+El Salvador,GPE
+Schumer,PERSON
+Chuck Schumer,PERSON
+Chuck,PERSON
+Chuck Schumer,PERSON
+Chuck Schumer,PERSON
+Schumer,PERSON
+Chuck Schumer,PERSON
+Chuck,PERSON
+Carolyn Maloney,PERSON
+Democrats,NORP
+Democrats,NORP
+healthcare,ORG
+180 million,CARDINAL
+180,CARDINAL
+180 million,CARDINAL
+Obama,PERSON
+28,CARDINAL
+IRS,ORG
+Republicans,NORP
+around $1.8 billion,MONEY
+Iran,GPE
+Iran,GPE
+$1.8 billion,MONEY
+Iran,GPE
+$1.8 billion,MONEY
+$1 million,MONEY
+a million,CARDINAL
+$1.8 billion,MONEY
+Republicans,NORP
+Democrat,NORP
+Congress,ORG
+Republicans,NORP
+Democrats,NORP
+The Republican party,ORG
+American,NORP
+American,NORP
+American,NORP
+Abraham Lincoln,PERSON
+$100 million,MONEY
+Flint,GPE
+Flint,GPE
+Flint,GPE
+hundreds of millions of dollars,MONEY
+a couple of bucks,MONEY
+Republican,NORP
+America,GPE
+Paris Climate Accord,ORG
+Paris,GPE
+Paris,GPE
+France,GPE
+Israel,GPE
+American,NORP
+Jerusalem,GPE
+Israeli,NORP
+the Golan Heights,LOC
+years,DATE
+America,GPE
+Michigan,GPE
+American,NORP
+FBI,ORG
+Comey,PERSON
+James Comey's,PERSON
+First,ORDINAL
+50%,PERCENT
+four years,DATE
+years,DATE
+a minute,TIME
+49 years,DATE
+Nine months ago,DATE
+the 49 years,DATE
+Asia,LOC
+Europe,LOC
+millions,CARDINAL
+Republican,NORP
+Congress,ORG
+USA,GPE
+the last three years,DATE
+FDA,ORG
+12,CARDINAL
+13,DATE
+14 years,DATE
+America,GPE
+10 years,DATE
+10 year,DATE
+America,GPE
+America,GPE
+the United States,GPE
+thousands,CARDINAL
+MS13,PERSON
+two,CARDINAL
+16 years old,DATE
+Nancy Pelosi,PERSON
+the Pacific ocean,LOC
+San,GPE
+the Pacific ocean,LOC
+Los Angeles,GPE
+San Francisco,GPE
+Nancy Pelosi,PERSON
+San Francisco,GPE
+"30, 40,",DATE
+50 years,DATE
+American,NORP
+American,NORP
+Thomas Jefferson,PERSON
+Michigan Patriots,ORG
+Henry Ford,PERSON
+General Motors,ORG
+Chrysler,ORG
+Kellogg,ORG
+Motown,PERSON
+Mustang,PRODUCT
+Midwest,LOC
+American,NORP
+mid west,LOC
+Michigan,GPE
+American,NORP
+American,NORP
+Democrats,NORP
+Michigan,GPE
+NATO,ORG
+29,CARDINAL
+the last year,DATE
+Stoltenberg,PERSON
+the last period,DATE
+$130 billion,MONEY
+$530 billion,MONEY
+Stoltenberg,PERSON
+NATO,ORG
+15 years,DATE
+Obama,PERSON
+Bush,PERSON
+100%,PERCENT
+NATO,ORG
+Europe,LOC
+hundreds of billions of dollars,MONEY
+China,GPE
+China,GPE
+China,GPE
+NATO,ORG
+$530 billion,MONEY
+a couple of weeks,DATE
+NATO,ORG
+$530 billion,MONEY
+Obama,PERSON
+Germany,GPE
+Obama,PERSON
+France,GPE
+Obama,PERSON
+France,GPE
+Obama,PERSON
+Trump,PERSON
+Germany,GPE
+Germany,GPE
+Germany,GPE
+Germany,GPE
+one,CARDINAL
+one,CARDINAL
+one,CARDINAL
+one,CARDINAL
+America,GPE
+Michigan,GPE
+a year from now,DATE
+America,GPE
+America,GPE
+America,GPE
+America,GPE
+America,GPE
+Michigan,GPE
